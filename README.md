@@ -1,7 +1,5 @@
 # Christian Seifert
 
-<img src="https://www.perdian.de/images/profile_300.jpg" alt="Christian" style="float: right; height: 200px; width: 200px; padding-left: 1rem; padding-bottom: 1rem;" />
-
 I'm Christian Seifert, a software engineer currently working as Senior System Architect at [BetterDoc](https://dev.betterdoc.org) in Cologne Germany.
 
 I'm a regularly speaking at software development conferences, mainly focussing on the human side of being a software engineer.
