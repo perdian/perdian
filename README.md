@@ -11,7 +11,7 @@ The projects that I host on GitHub are my personal side projects.
 Applications, tools, utilities and sometimes just configurations that first and foremost scratch my own itches.
 Nothing fancy or extremely exciting but things that make my life a little easier.
 
-If you find them useful then I'm happy to provide you with a few resources or ideas.
+If you find them useful then I'm happy to provide a few resources or ideas.
 
 ## Projects
 
