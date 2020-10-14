@@ -27,7 +27,7 @@ A Maven plugin that packages a Java application into a macOS application that ca
 
 My personal [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) which go a little beyond the classical dotfile idea and also include other configurations I use for my macOS machines.
 
-### [awesome-macos-applications](https://github.com/perdian/awesome-macos-applications)
+#### [awesome-macos-applications](https://github.com/perdian/awesome-macos-applications)
 
 My personal list of macOS applications that I find useful.
 
