@@ -1,6 +1,6 @@
 # Christian Seifert
 
-I'm Christian Seifert, a software engineer currently working as Senior System Architect at [BetterDoc](https://dev.betterdoc.org) in Cologne Germany.
+I'm Christian Seifert, a software engineer from Cologne Germany.
 
 I'm a regularly speaking at software development conferences, mainly focussing on the human side of being a software engineer.
 I also infrequently publish articles about software development.
