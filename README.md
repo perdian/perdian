@@ -1,6 +1,6 @@
 # Christian Seifert
 
-I'm Christian Seifert, a software engineer from Cologne Germany.
+I'm Christian Seifert, a software engineer from Cologne, Germany currently working as Lead Expert Digital Platform at [OBI Smart Technologies](https://www.obi.de).
 
 I'm a regularly speaking at software development conferences, mainly focussing on the human side of being a software engineer.
 I also infrequently publish articles about software development.
@@ -17,50 +17,25 @@ If you find them useful then I'm happy to provide a few resources or ideas.
 
 ### Development helpers
 
-#### [macosappbundler-maven-plugin](https://github.com/perdian/macosappbundler-maven-plugin)
-
-A Maven plugin that packages a Java application into a macOS application that can be installed into the applications folder and run via an application icon.
+* **[macosappbundler-maven-plugin](https://github.com/perdian/macosappbundler-maven-plugin)**: A Maven plugin that packages a Java application into a macOS application that can be installed into the applications folder and run via an application icon.
 
 ### Personal configurations and lists
 
-#### [dotfiles](https://github.com/perdian/dotfiles)
-
-My personal [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) which go a little beyond the classical dotfile idea and also include other configurations I use for my macOS machines.
-
-#### [awesome-macos-applications](https://github.com/perdian/awesome-macos-applications)
-
-My personal list of macOS applications that I find useful.
+* **[dotfiles](https://github.com/perdian/dotfiles)**: My personal [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) which go a little beyond the classical dotfile idea and also include other configurations I use for my macOS machines.
+* **[awesome-macos-applications](https://github.com/perdian/awesome-macos-applications)**: My personal list of macOS applications that I find useful.
 
 ### Applications
 
-#### [flightlog](https://github.com/perdian/flightlog)
-
-A web application that allows me to keep a record of all the flights that I have been on so far.
-
-#### [podcastcentral](https://github.com/perdian/podcastcentral)
-
-A podcatcher.
-A JavaFX application that allows me to easily fetch new podcast episodes from my favorite podcasts.
-
-Originally I used iTunes for managing my podcasts but I never really liked the experience, plus after the discontinuation of iTunes I didn't find the Apple Podcasts application that usable for my personal taste.
-
-#### [mp3tagtiger](https://github.com/perdian/mp3tagtiger)
-
-A JavaFX application that allows me to easily edit the ID3 tags of my MP3 files.
-
-#### [fimasu (Finanzmanager Support)](https://github.com/perdian/fimasu)
-
-A quick (but not really dirty) solution to easily create a [QIF file](https://de.wikipedia.org/wiki/Quicken_Interchange_Format) to be used for importing data into the Lexware Finanzmanager (formerly called Quicken).
+* **[flightlog](https://github.com/perdian/flightlog)**: A web application that allows me to keep a record of all the flights that I have been on so far.
+* **[divelog](https://github.com/perdian/flightlog)**: One of my hobbies is diving, so similar to flightlog this application helps me to keep track of my dives online.
+* **[podcastcentral](https://github.com/perdian/podcastcentral)**: A podcatcher. A JavaFX application that allows me to easily fetch new podcast episodes from my favorite podcasts. Originally I used iTunes for managing my podcasts but I never really liked the experience, plus after the discontinuation of iTunes I didn't find the Apple Podcasts application that usable for my personal taste.
+* **[mp3tagtiger](https://github.com/perdian/mp3tagtiger)**: A JavaFX application that allows me to easily edit the ID3 tags of my MP3 files.
+* **[fimasu (Finanzmanager Support)](https://github.com/perdian/fimasu)**: A quick (but not that dirty) solution to easily create a [QIF file](https://de.wikipedia.org/wiki/Quicken_Interchange_Format) to be used for importing data into the Lexware Finanzmanager (formerly called Quicken).
 
 ### Libraries
 
-#### [flightsearch-api](https://github.com/perdian/flightsearch-api)
-
-A library of Java classes targeted to make working with flight search a bit easier.
-
-#### [commons-fx](https://github.com/perdian/commons-fx)
-
-JavaFX helpers and utilities I used in most of my JavaFX applications.
+* **[flightsearch-api](https://github.com/perdian/flightsearch-api)**: A library of Java classes targeted to make working with flight search a bit easier.
+* **[commons-fx](https://github.com/perdian/commons-fx)**: JavaFX helpers and utilities I used in most of my JavaFX applications.
 
 ### Older projects
 
