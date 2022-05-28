@@ -1,6 +1,6 @@
 # Christian Seifert
 
-I'm Christian Seifert, a software engineer from Cologne, Germany currently working as Lead Expert Digital Platform at [OBI Smart Technologies](https://www.obi.de).
+I'm Christian Seifert, a software engineer from Cologne, Germany.
 
 I'm a regularly speaking at software development conferences, mainly focussing on the human side of being a software engineer.
 I also infrequently publish articles about software development.
