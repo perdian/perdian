@@ -1,9 +1,8 @@
 # Christian Seifert
 
-I'm Christian Seifert, a software engineer from Cologne, Germany.
+I'm Christian Seifert, a software engineering enthusiast working in IT for more than 20 years. Since July 2022 I'm Head of Backend Development at [Pixum](https://www.pixum.com).
 
-I'm a regularly speaking at software development conferences, mainly focussing on the human side of being a software engineer.
-I also infrequently publish articles about software development.
+I regularly [speak at software development conferences](https://www.perdian.de/conference-talks/), mainly focussing on the human side of being a software engineer. From time to time I also [publish articles](https://www.perdian.de/publications/) about software engineering.
 
 You can find more about me on my personal homepage at [https://www.perdian.de](https://www.perdian.de).
 
