@@ -1,6 +1,6 @@
 # Christian Seifert
 
-I'm Christian Seifert, a software engineering enthusiast working in IT for more than 20 years. Since July 2022 I'm Head of Backend Development at [Pixum](https://www.pixum.com).
+I'm Christian Seifert, a software engineering enthusiast developing software for more than 20 years. I'm currently working as Principal Consultant and Senior Software Architect at [esentri](https://www.esentri.com/).
 
 I regularly [speak at software development conferences](https://www.perdian.de/conference-talks/), mainly focussing on the human side of being a software engineer. From time to time I also [publish articles](https://www.perdian.de/publications/) about software engineering.
 
