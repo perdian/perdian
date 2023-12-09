@@ -1,14 +1,15 @@
 # Christian Seifert
 
-I'm Christian Seifert, a software engineering enthusiast developing software for more than 20 years. I'm currently working as Principal Consultant and Senior Software Architect at [esentri](https://www.esentri.com/).
+I'm Christian Seifert, a seasoned software architect with a rich history spanning over two decades. I'm currently working as Senior Software Architect and Principal Consultant at [esentri](https://www.esentri.com/).
 
-I regularly [speak at software development conferences](https://www.perdian.de/conference-talks/), mainly focussing on the human side of being a software engineer. From time to time I also [publish articles](https://www.perdian.de/publications/) about software engineering.
+Originating from a deep fascination with technology, I dedicate my time to both hands-on coding and sculpting a cohesive architectural vision for teams and business collaborators alike.
+
+I regularly [speak at software development conferences](https://www.perdian.de/conference-talks/), and [publish articles](https://www.perdian.de/publications/) mainly focussing on the human side of being a software engineer.
 
 You can find more about me on my personal homepage at [https://www.perdian.de](https://www.perdian.de).
 
 The projects that I host on GitHub are my personal side projects.
-Applications, tools, utilities and sometimes just configurations that first and foremost scratch my own itches.
-Nothing fancy or extremely exciting but things that make my life a little easier.
+Applications, tools, utilities and sometimes just configurations that first and foremost scratch my own itches - things that make my life a little easier.
 
 If you find them useful then I'm happy to provide a few resources or ideas.
 
@@ -34,13 +35,13 @@ If you find them useful then I'm happy to provide a few resources or ideas.
 ### Libraries
 
 * **[flightsearch-api](https://github.com/perdian/flightsearch-api)**: A library of Java classes targeted to make working with flight search a bit easier.
-* **[commons-fx](https://github.com/perdian/commons-fx)**: JavaFX helpers and utilities I used in most of my JavaFX applications.
 
 ### Older projects
 
 These are projects that I no longer actively maintain or even really look at.
 I guess it's just for nostalgical reasons I don't delete them completely.
 
+* **[commons-fx](https://github.com/perdian/commons-fx)**: JavaFX helpers and utilities I used to use in my JavaFX applications.
 * **[filerenamer](https://github.com/perdian/filerenamer)**: A small JavaFX application that allows me to rename a set of files via a regular expression.
 * **[minesweeper](https://github.com/perdian/minesweeper)**: An implementation of the infamous minesweeper game I did just for the fun of seeing how long it would take me to implement this in Java.
 * **[applewallet](https://github.com/perdian/applewallet)**: A Java library to generate Apple wallet passes.
