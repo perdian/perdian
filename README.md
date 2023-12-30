@@ -23,6 +23,7 @@ If you find them useful then I'm happy to provide a few resources or ideas.
 
 * **[dotfiles](https://github.com/perdian/dotfiles)**: My personal [dotfiles](https://wiki.archlinux.org/index.php/Dotfiles) which go a little beyond the classical dotfile idea and also include other configurations I use for my macOS machines.
 * **[awesome-macos-applications](https://github.com/perdian/awesome-macos-applications)**: My personal list of macOS applications that I find useful.
+* **[awesome-software-engineering](https://github.com/perdian/awesome-software-engineering)**: My personal collection of software engineering resources.
 
 ### Applications
 
