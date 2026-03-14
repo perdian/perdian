@@ -1,6 +1,6 @@
 # Christian Seifert
 
-I'm Christian Seifert, a seasoned software architect with a rich history spanning over two decades. I'm currently working as Senior Software Architect and Principal Consultant at [esentri](https://www.esentri.com/).
+I'm Christian Seifert, a seasoned software architect with a rich history spanning over two decades. I'm currently working as Principal Software Architect at [Gofore](https://www.gofore.com/).
 
 Originating from a deep fascination with technology, I dedicate my time to both hands-on coding and sculpting a cohesive architectural vision for teams and business collaborators alike.
 
@@ -9,15 +9,15 @@ I regularly [speak at software development conferences](https://www.perdian.de/c
 You can find more about me on my personal homepage at [https://www.perdian.de](https://www.perdian.de).
 
 The projects that I host on GitHub are my personal side projects.
-Applications, tools, utilities and sometimes just configurations that first and foremost scratch my own itches - things that make my life a little easier.
+Applications, tools, utilities and sometimes just lists and configurations that first and foremost scratch my own itches - things that make my life a little easier.
 
-If you find them useful then I'm happy to provide a few resources or ideas.
+If you find them useful, then I'm happy to provide a few resources or ideas.
 
 ## Projects
 
 ### Development helpers
 
-* **[macosappbundler-maven-plugin](https://github.com/perdian/macosappbundler-maven-plugin)**: A Maven plugin that packages a Java application into a macOS application that can be installed into the applications folder and run via an application icon.
+* **[macosappbundler-maven-plugin](https://github.com/perdian/macosappbundler-maven-plugin)**: A Maven plugin that packages a Java application as a macOS application that can be installed into the applications folder and run via an application icon.
 
 ### Personal configurations and lists
 
@@ -31,7 +31,6 @@ If you find them useful then I'm happy to provide a few resources or ideas.
 * **[divelog](https://github.com/perdian/flightlog)**: One of my hobbies is diving, so similar to flightlog this application helps me to keep track of my dives online.
 * **[podcastcentral](https://github.com/perdian/podcastcentral)**: A podcatcher. A JavaFX application that allows me to easily fetch new podcast episodes from my favorite podcasts. Originally I used iTunes for managing my podcasts but I never really liked the experience, plus after the discontinuation of iTunes I didn't find the Apple Podcasts application that usable for my personal taste.
 * **[mp3tagtiger](https://github.com/perdian/mp3tagtiger)**: A JavaFX application that allows me to easily edit the ID3 tags of my MP3 files.
-* **[fimasu (Finanzmanager Support)](https://github.com/perdian/fimasu)**: A quick (but not that dirty) solution to easily create a [QIF file](https://de.wikipedia.org/wiki/Quicken_Interchange_Format) to be used for importing data into the Lexware Finanzmanager (formerly called Quicken).
 
 ### Libraries
 
@@ -47,5 +46,6 @@ I guess it's just for nostalgical reasons I don't delete them completely.
 * **[minesweeper](https://github.com/perdian/minesweeper)**: An implementation of the infamous minesweeper game I did just for the fun of seeing how long it would take me to implement this in Java.
 * **[applewallet](https://github.com/perdian/applewallet)**: A Java library to generate Apple wallet passes.
 * **[ant-webstart](https://github.com/perdian/ant-webstart])**: An [ant](https://ant.apache.org) task to generate a Java webstart configuration.
-* **[devlauncher](https://github.com/perdian/devlauncher)**: A quick way to launch a Java application consisting of multiple JARs without having to fiddle with the command line and add each of the JARs manually to argument list. Basically what Spring Boot does a lot better these days.
-* **[beandumper](https://github.com/perdian/beandumper)**: A JSP extension that allows to easily dipsplay the object graph of all the objects available within the evaulation context of a JSP template.
+* **[devlauncher](https://github.com/perdian/devlauncher)**: A quick way to launch a Java application consisting of multiple JARs without having to fiddle with the command line and add each of the JARs manually to an argument list. Basically what Spring Boot does a lot better these days.
+* **[beandumper](https://github.com/perdian/beandumper)**: A JSP extension that allows me to easily display the object graph of all the objects available within the evaluation context of a JSP template.
+* **[fimasu (Finanzmanager Support)](https://github.com/perdian/fimasu)**: A quick (but not that dirty) solution to easily create a [QIF file](https://de.wikipedia.org/wiki/Quicken_Interchange_Format) to be used for importing data into the Lexware Finanzmanager (formerly called Quicken).
