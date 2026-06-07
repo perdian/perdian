@@ -1,10 +1,10 @@
 # Christian Seifert
 
-I'm Christian Seifert, a seasoned software architect with a rich history spanning over two decades. I'm currently working as Principal Software Architect at [Gofore](https://www.gofore.com/).
+I'm Christian Seifert, a seasoned Software Architect and Software Engineer with more than two decades of experience shaping complex software systems across industries. Currently, I work as a Principal Software Architect at [Gofore](https://www.gofore.com), helping organizations design sustainable architectures and build the teams that bring them to life.
 
-Originating from a deep fascination with technology, I dedicate my time to both hands-on coding and sculpting a cohesive architectural vision for teams and business collaborators alike.
+Most software projects don't fail because of technology. They fail because of people, communication, and organization. That conviction is the thread running through my work. I'm a hands-on technologist at heart - I still write code, and I care deeply about clean architecture - but I've learned that great software only emerges when a solid technical foundation meets a team that collaborates well, embedded in an organization that lets it thrive.
 
-I regularly [speak at software development conferences](https://www.perdian.de/conference-talks/), and [publish articles](https://www.perdian.de/publications/) mainly focussing on the human side of being a software engineer.
+I regularly [speak at software conferences](https://www.perdian.de/conference-talks/), and [publish articles](https://www.perdian.de/publications/), mostly on the human side of software engineering - how we can build not just better systems, but better environments for the people who create them.
 
 You can find more about me on my personal homepage at [https://www.perdian.de](https://www.perdian.de).
 
